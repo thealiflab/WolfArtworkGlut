@@ -124,6 +124,44 @@ glVertex2i(173,295); //bottom left
 glEnd();
 glFlush();
 
+//9th
+
+glBegin(GL_QUADS);
+glColor3f(253.0f/255.0f, 136.0f/255.0f, 57.0f/255.0f);
+
+glVertex2i(198,280); //top right
+glVertex2i(173,295); //top left
+glVertex2i(127,220); //bottom left
+glVertex2i(132,170); //bottom right
+
+glEnd();
+glFlush();
+
+//10th
+
+glBegin(GL_TRIANGLES);
+glColor3f(150.0f/255.0f, 77.0f/255.0f, 34.0f/255.0f);
+
+glVertex2i(132,170); //bottom right
+glVertex2i(127,220); //bottom left
+glVertex2i(107,190); //left bottom
+
+glEnd();
+glFlush();
+
+//11th
+
+glBegin(GL_TRIANGLES);
+glColor3f(255.0f/255.0f, 192.0f/255.0f, 138.0f/255.0f);
+
+glVertex2i(188,315);
+glVertex2i(205,215);
+glVertex2i(198,280);
+
+
+
+glEnd();
+glFlush();
 
 
 
