@@ -1,6 +1,7 @@
 # 🦊 Wolf Artwork
-#### This artwork was done as a GlutProject in Codeblocks.
-
+#### It's a GlutProject in Codeblocks.
+<hr>
+######This artwork was drawn for my Computer Graphics' Lab-assignment.
 
 ![Wolf](https://github.com/thealiflab/WolfArtworkGlut/blob/master/wolf.png "Wolf Artwork")
 
