@@ -1,7 +1,10 @@
 # 🦊 Wolf Artwork
 #### It's a GlutProject in Codeblocks.
-<hr>
+
 ######This artwork was drawn for my Computer Graphics' Lab-assignment.
+
+<hr>
+
 
 ![Wolf](https://github.com/thealiflab/WolfArtworkGlut/blob/master/wolf.png "Wolf Artwork")
 
