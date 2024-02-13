@@ -1,7 +1,7 @@
 # 🦊 Wolf Artwork
-#### It's a GlutProject in Codeblocks.
+#### It's an OpenGL Project.
 
-###### This artwork was drawn for my Computer Graphics' Lab-assignment.
+###### This artwork was drawn for my Computer Graphics Lab assignment.
 
 <hr>
 
